@@ -1,0 +1,19 @@
+instalación y actualización de R
+https://r-basico.aprendr.org/actualiza_r_y_rstudio_windows.html
+https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Testing-a-Windows-Installation
+https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.html
+https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages
+
+Manuales y tutoriales de R
+https://r-basico.aprendr.org/
+https://arcruz0.github.io/libroadp/
+
+exportar archivos y bases de datos desde R
+https://www.youtube.com/watch?v=hY53T7MCXdY
+
+aplicar k-medias y distancias a centroides
+https://stackoverflow.com/questions/40498110/r-kmeans-final-distance-to-to-centroid
+https://www.geeksforgeeks.org/k-means-clustering-in-r-programming/#:~:text=K%20Means%20Clustering%20in%20R,pre%2Dspecified%20number%20of%20clusters.
+https://uc-r.github.io/kmeans_clustering
+http://www.datanovia.com/en/lessons/k-means-clustering-in-r-algorith-and-practical-examples/#k-means-basic-ideas
+
